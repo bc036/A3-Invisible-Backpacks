@@ -15,11 +15,12 @@ class CfgPatches
 		};
 		weapons[]={};
 		author="bc036";
-		icon="\bc036s_invisible_backpacks\bc036.paa";
+		icon="\bc036s_invisible_backpacks\Data\bc036.paa";
 		requiredAddons[]=
 		{
 			"A3_Weapons_F";
 		};
+		version="v1.0";
 		requiredVersion=0.1;
 	};
 };

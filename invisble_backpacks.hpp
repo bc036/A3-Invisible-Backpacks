@@ -6,10 +6,10 @@ class cfgVehicles
 		author="bc036";
 		scope=2;
 		displayName="Invisible Kitbag";
-		model="\bc036s_invisible_backpacks\null.p3d";
+		model="\bc036s_invisible_backpacks\Data\null.p3d";
 		hiddenSelectionsTextures[]=
 		{
-			"\bc036s_invisible_backpacks\null_CA.paa";
+			"\bc036s_invisible_backpacks\Data\null_CA.paa";
 		};
 	};
 	class B_AssaultPack_rgr;
@@ -18,10 +18,10 @@ class cfgVehicles
 		author="bc036";
 		scope=2;
 		displayName="Invisible Assault Pack";
-		model="\bc036s_invisible_backpacks\null.p3d";
+		model="\bc036s_invisible_backpacks\Data\null.p3d";
 		hiddenSelectionsTextures[]=
 		{
-			"\bc036s_invisible_backpacks\null_CA.paa";
+			"\bc036s_invisible_backpacks\Data\null_CA.paa";
 		};
 	};
 	class B_Bergen_dgtl_F;
@@ -30,10 +30,10 @@ class cfgVehicles
 		author="bc036";
 		scope=2;
 		displayName="Invisible Bergen";
-		model="\bc036s_invisible_backpacks\null.p3d";
+		model="\bc036s_invisible_backpacks\Data\null.p3d";
 		hiddenSelectionsTextures[]=
 		{
-			"\bc036s_invisible_backpacks\null_CA.paa";
+			"\bc036s_invisible_backpacks\Data\null_CA.paa";
 		};
 	};
 	class B_FieldPack_blk;
@@ -42,10 +42,10 @@ class cfgVehicles
 		author="bc036";
 		scope=2;
 		displayName="Invisible Field Pack";
-		model="\bc036s_invisible_backpacks\null.p3d";
+		model="\bc036s_invisible_backpacks\Data\null.p3d";
 		hiddenSelectionsTextures[]=
 		{
-			"\bc036s_invisible_backpacks\null_CA.paa";
+			"\bc036s_invisible_backpacks\Data\null_CA.paa";
 		};
 	};
 	class B_TacticalPack_rgr;
@@ -54,10 +54,10 @@ class cfgVehicles
 		author="bc036";
 		scope=2;
 		displayName="Invisible Tactical Pack";
-		model="\bc036s_invisible_backpacks\null.p3d";
+		model="\bc036s_invisible_backpacks\Data\null.p3d";
 		hiddenSelectionsTextures[]=
 		{
-			"\bc036s_invisible_backpacks\null_CA.paa";
+			"\bc036s_invisible_backpacks\Data\null_CA.paa";
 		};
 	};
 	class B_Carryall_oli;
@@ -66,10 +66,10 @@ class cfgVehicles
 		author="bc036";
 		scope=2;
 		displayName="Invisible Carryall";
-		model="\bc036s_invisible_backpacks\null.p3d";
+		model="\bc036s_invisible_backpacks\Data\null.p3d";
 		hiddenSelectionsTextures[]=
 		{
-			"\bc036s_invisible_backpacks\null_CA.paa";
+			"\bc036s_invisible_backpacks\Data\null_CA.paa";
 		};
 	};
 	class B_ViperHarness_blk_F;
@@ -78,10 +78,10 @@ class cfgVehicles
 		author="bc036";
 		scope=2;
 		displayName="Invisible Viper Harness";
-		model="\bc036s_invisible_backpacks\null.p3d";
+		model="\bc036s_invisible_backpacks\Data\null.p3d";
 		hiddenSelectionsTextures[]=
 		{
-			"\bc036s_invisible_backpacks\null_CA.paa";
+			"\bc036s_invisible_backpacks\Data\null_CA.paa";
 		};
 	};
 	class B_ViperLightHarness_blk_F;
@@ -90,10 +90,10 @@ class cfgVehicles
 		author="bc036";
 		scope=2;
 		displayName="Invisible Viper Light Harness";
-		model="\bc036s_invisible_backpacks\null.p3d";
+		model="\bc036s_invisible_backpacks\Data\null.p3d";
 		hiddenSelectionsTextures[]=
 		{
-			"\bc036s_invisible_backpacks\null_CA.paa";
+			"\bc036s_invisible_backpacks\Data\null_CA.paa";
 		};
 	};
 };
