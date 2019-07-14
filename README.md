@@ -1,4 +1,4 @@
-Adds invisible backpacks. 
+Adds invisible backpacks to Arma 3. 
 
 Includes: 
 Invisible Assualt Pack 
