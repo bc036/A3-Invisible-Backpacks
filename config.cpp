@@ -4,12 +4,14 @@ class CfgPatches
 	{
 		units[]=
 		{
+			//Vanilla
 			"bc036_invisible_kitbag",
 			"bc036_invisible_assaultpack",
 			"bc036_invisible_bergen",
 			"bc036_invisible_fieldpack",
 			"bc036_invisible_tacticalpack",
 			"bc036_invisible_carryall",
+			//Apex
 			"bc036_invisible_viperharness",
 			"bc036_invisible_viperlightharness"
 		};
