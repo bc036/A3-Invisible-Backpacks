@@ -26,4 +26,6 @@ class CfgPatches
 		requiredVersion=0.1;
 	};
 };
+class CfgVehicles{
 #include "invisble_backpacks.hpp"
+};

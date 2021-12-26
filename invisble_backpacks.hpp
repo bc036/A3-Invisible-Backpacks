@@ -1,5 +1,3 @@
-class cfgVehicles
-{
 	//Vanilla
 	class B_Kitbag_rgr;
 	class bc036_invisible_kitbag: B_Kitbag_rgr
@@ -98,4 +96,3 @@ class cfgVehicles
 			"\bc036s_invisible_backpacks\Data\null_CA.paa";
 		};
 	};
-};
