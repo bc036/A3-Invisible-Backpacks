@@ -8,6 +8,7 @@ Adds invisible backpacks to Arma 3.
 - Invisible Kitbag 
 - Invisible Field Pack 
 - Invisible Tactical Pack
+- Invisible Parachute
 - Invisible Viper Harness
 - Invisible Viper Light Harness
 
@@ -18,6 +19,7 @@ Adds invisible backpacks to Arma 3.
 - bc036_invisible_kitbag
 - bc036_invisible_fieldpack
 - bc036_invisible_tacticalpack
+- bc036_invisible_parachute
 - bc036_invisible_viperharness
 - bc036_invisible_viperlightharness
 
