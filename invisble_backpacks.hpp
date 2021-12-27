@@ -1,7 +1,8 @@
 	//Vanilla
 	class B_Kitbag_rgr;
-	class bc036_invisible_kitbag: B_Kitbag_rgr
+	class bc036_invisible_kitbag : B_Kitbag_rgr
 	{
+		dlc = "bc036_invisible_backpacks_DLC";
 		author="bc036";
 		scope=2;
 		displayName="Invisible Kitbag";
@@ -12,8 +13,9 @@
 		};
 	};
 	class B_AssaultPack_rgr;
-	class bc036_invisible_assaultpack: B_AssaultPack_rgr
+	class bc036_invisible_assaultpack : B_AssaultPack_rgr
 	{
+		dlc = "bc036_invisible_backpacks_DLC";
 		author="bc036";
 		scope=2;
 		displayName="Invisible Assault Pack";
@@ -24,8 +26,9 @@
 		};
 	};
 	class B_Bergen_dgtl_F;
-	class bc036_invisible_bergen: B_Bergen_dgtl_F
+	class bc036_invisible_bergen : B_Bergen_dgtl_F
 	{
+		dlc = "bc036_invisible_backpacks_DLC";
 		author="bc036";
 		scope=2;
 		displayName="Invisible Bergen";
@@ -36,8 +39,9 @@
 		};
 	};
 	class B_FieldPack_blk;
-	class bc036_invisible_fieldpack: B_FieldPack_blk
+	class bc036_invisible_fieldpack : B_FieldPack_blk
 	{
+		dlc = "bc036_invisible_backpacks_DLC";
 		author="bc036";
 		scope=2;
 		displayName="Invisible Field Pack";
@@ -48,8 +52,9 @@
 		};
 	};
 	class B_TacticalPack_rgr;
-	class bc036_invisible_tacticalpack: B_TacticalPack_rgr
+	class bc036_invisible_tacticalpack : B_TacticalPack_rgr
 	{
+		dlc = "bc036_invisible_backpacks_DLC";
 		author="bc036";
 		scope=2;
 		displayName="Invisible Tactical Pack";
@@ -60,8 +65,9 @@
 		};
 	};
 	class B_Carryall_oli;
-	class bc036_invisible_carryall: B_Carryall_oli
+	class bc036_invisible_carryall : B_Carryall_oli
 	{
+		dlc = "bc036_invisible_backpacks_DLC";
 		author="bc036";
 		scope=2;
 		displayName="Invisible Carryall";
@@ -71,10 +77,24 @@
 			"\bc036s_invisible_backpacks\Data\null_CA.paa";
 		};
 	};
+	class B_Parachute;
+	class bc036_invisble_parachute : B_Parachute
+	{
+		dlc = "bc036_invisible_backpacks_DLC";
+		author = "bc036";
+		scope = 2;
+		displayName = "Invisible Parachute";
+		model = "\bc036s_invisible_backpacks\Data\null.p3d";
+		hiddenSelectionsTextures[] =
+		{
+			"\bc036s_invisible_backpacks\Data\null_CA.paa";
+		};
+	};
 	//Apex
 	class B_ViperHarness_blk_F;
-	class bc036_invisible_viperharness: B_ViperHarness_blk_F
+	class bc036_invisible_viperharness : B_ViperHarness_blk_F
 	{
+		dlc = "bc036_invisible_backpacks_DLC";
 		author="bc036";
 		scope=2;
 		displayName="Invisible Viper Harness";
@@ -85,8 +105,9 @@
 		};
 	};
 	class B_ViperLightHarness_blk_F;
-	class bc036_invisible_viperlightharness: B_ViperLightHarness_blk_F
+	class bc036_invisible_viperlightharness : B_ViperLightHarness_blk_F
 	{
+		dlc = "bc036_invisible_backpacks_DLC";
 		author="bc036";
 		scope=2;
 		displayName="Invisible Viper Light Harness";
